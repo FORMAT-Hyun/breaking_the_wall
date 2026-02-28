@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"start_bgm",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":60.302223,
+  "exportDir":"",
+  "name":"start_bgm",
+  "parent":{
+    "name":"breaking_the_wall",
+    "path":"breaking_the_wall.yyp",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"start_bgm.ogg",
+  "volume":1.0,
+}
