@@ -4,3 +4,10 @@
 /// @DnDArgument : "expr" "0.225"
 /// @DnDArgument : "var" "tar1"
 tar1 = 0.225;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 0F4A59A1
+/// @DnDArgument : "expr" "1"
+/// @DnDArgument : "var" "delay"
+delay = 1;
