@@ -11,3 +11,9 @@ tar1 = 0.225;
 /// @DnDArgument : "expr" "1"
 /// @DnDArgument : "var" "delay"
 delay = 1;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 16B9FF01
+/// @DnDArgument : "var" "num1unit"
+num1unit = 0;
